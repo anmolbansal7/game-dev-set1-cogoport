@@ -1,4 +1,4 @@
-# Cogoport Academy - Problem set 1 - HTML & CSS Basic Website
+# Cogoport Academy - Game Dev - Set 1 - p5.js
 
 ### Replica Complete
 
